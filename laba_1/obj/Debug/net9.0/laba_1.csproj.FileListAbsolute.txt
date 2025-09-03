@@ -12,3 +12,18 @@ C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\ne
 C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.pdb
 C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.genruntimeconfig.cache
 C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\ref\laba_1.dll
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\bin\Debug\net9.0\laba_1.exe
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\bin\Debug\net9.0\laba_1.deps.json
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\bin\Debug\net9.0\laba_1.runtimeconfig.json
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\bin\Debug\net9.0\laba_1.dll
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\bin\Debug\net9.0\laba_1.pdb
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.AssemblyInfoInputs.cache
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.AssemblyInfo.cs
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.csproj.CoreCompileInputs.cache
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.sourcelink.json
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.dll
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\refint\laba_1.dll
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.pdb
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.genruntimeconfig.cache
+C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\ref\laba_1.dll

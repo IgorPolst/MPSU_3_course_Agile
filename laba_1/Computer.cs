@@ -10,9 +10,9 @@ class Computer {
         this.ram = ram;             
     }
 
-    public void changingRAM()
+    public void changingRAM(int count)
     {
-        this.ram += 10;
+        this.ram += count;
     }
 
     public override string ToString()
