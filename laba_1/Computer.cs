@@ -1,23 +1,23 @@
 class Computer {
-    public string model { get; init; }
-    public string manufacture { get; init; }
-    public int ram { get; set; }
+    public string Model { get; init; }
+    public string Manufacture { get; init; }
+    public int Ram { get; set; }
 
     public Computer(string model, string manufacture, int ram)
     {
-        this.model = model;
-        this.manufacture = manufacture;
-        this.ram = ram;             
+        this.Model = model;
+        this.Manufacture = manufacture;
+        this.Ram = ram;             
     }
 
-    public void changingRAM(int count)
+    public void ChangingRAM(int count)
     {
-        this.ram += count;
+        this.Ram += count;
     }
 
     public override string ToString()
     {
-        return $"Модель: {this.model}\nПроизводитель: {this.manufacture}\nКол-во оперативной памяти:{this.ram}\n";
+        return $"Модель: {this.Model}\nПроизводитель: {this.Manufacture}\nКол-во оперативной памяти:{this.Ram}\n";
     }
 
 }

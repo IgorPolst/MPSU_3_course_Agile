@@ -27,3 +27,4 @@ C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algori
 C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.pdb
 C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.genruntimeconfig.cache
 C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\ref\laba_1.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_1\obj\Debug\net9.0\laba_1.sourcelink.json
