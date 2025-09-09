@@ -5,8 +5,8 @@ namespace laba_2;
 
 class Department
 {
-    public String Name { get; init; }
-    public String Managment { get; init; }
+    public string Name { get; init; }
+    public string Managment { get; init; }
 
     public Department(string name, string managment)
     {

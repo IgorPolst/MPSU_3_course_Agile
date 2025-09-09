@@ -1,0 +1,15 @@
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\bin\Debug\net9.0\laba_2D.exe
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\bin\Debug\net9.0\laba_2D.deps.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\bin\Debug\net9.0\laba_2D.runtimeconfig.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\bin\Debug\net9.0\laba_2D.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\bin\Debug\net9.0\laba_2D.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\obj\Debug\net9.0\laba_2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\obj\Debug\net9.0\laba_2D.AssemblyInfoInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\obj\Debug\net9.0\laba_2D.AssemblyInfo.cs
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\obj\Debug\net9.0\laba_2D.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\obj\Debug\net9.0\laba_2D.sourcelink.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\obj\Debug\net9.0\laba_2D.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\obj\Debug\net9.0\refint\laba_2D.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\obj\Debug\net9.0\laba_2D.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\obj\Debug\net9.0\laba_2D.genruntimeconfig.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2D\obj\Debug\net9.0\ref\laba_2D.dll

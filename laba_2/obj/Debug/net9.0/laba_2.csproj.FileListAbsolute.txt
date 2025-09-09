@@ -13,3 +13,18 @@ C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algori
 C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\laba_2.pdb
 C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\laba_2.genruntimeconfig.cache
 C:\Users\GT Turbo S\OneDrive\Рабочий стол\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\ref\laba_2.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\bin\Debug\net9.0\laba_2.exe
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\bin\Debug\net9.0\laba_2.deps.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\bin\Debug\net9.0\laba_2.runtimeconfig.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\bin\Debug\net9.0\laba_2.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\bin\Debug\net9.0\laba_2.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\laba_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\laba_2.AssemblyInfoInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\laba_2.AssemblyInfo.cs
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\laba_2.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\laba_2.sourcelink.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\laba_2.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\refint\laba_2.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\laba_2.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\laba_2.genruntimeconfig.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_2\obj\Debug\net9.0\ref\laba_2.dll

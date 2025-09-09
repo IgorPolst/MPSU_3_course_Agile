@@ -5,8 +5,8 @@ namespace laba_2;
 
 class Company
 {
-    public String Name { get; init; }
-    public String Industry { get; init; }
+    public string Name { get; init; }
+    public string Industry { get; init; }
     public int CountEmployees => CalculateEmployees();
     public IEnumerable<Department> Departments => departments;
 

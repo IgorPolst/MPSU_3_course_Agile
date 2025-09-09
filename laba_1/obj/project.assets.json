@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GT Turbo S\\.nuget\\packages\\": {}
+    "C:\\Users\\Игорь\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GT Turbo S\\OneDrive\\Рабочий стол\\GitHub\\MPSU_3_course_algorithm\\laba_1\\laba_1.csproj",
+      "projectUniqueName": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_algorithm\\laba_1\\laba_1.csproj",
       "projectName": "laba_1",
-      "projectPath": "C:\\Users\\GT Turbo S\\OneDrive\\Рабочий стол\\GitHub\\MPSU_3_course_algorithm\\laba_1\\laba_1.csproj",
-      "packagesPath": "C:\\Users\\GT Turbo S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GT Turbo S\\OneDrive\\Рабочий стол\\GitHub\\MPSU_3_course_algorithm\\laba_1\\obj\\",
+      "projectPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_algorithm\\laba_1\\laba_1.csproj",
+      "packagesPath": "C:\\Users\\Игорь\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_algorithm\\laba_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\GT Turbo S\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Игорь\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

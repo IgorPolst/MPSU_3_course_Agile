@@ -2,8 +2,8 @@ namespace laba_2;
 
 public class Employee
 {
-    public String Name { get; init; }
-    public String Position { get; init; }
+    public string Name { get; init; }
+    public string Position { get; set; }
     public int Salary { get; set; }
 
     public Employee(string name, string position, int salary)
