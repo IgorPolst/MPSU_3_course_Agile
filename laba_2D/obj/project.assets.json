@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Игорь\\.nuget\\packages\\": {}
+    "C:\\Users\\GT Turbo S\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_algorithm\\laba_2D\\laba_2D.csproj",
+      "projectUniqueName": "C:\\Users\\GT Turbo S\\OneDrive\\Рабочий стол\\GitHub\\MPSU_3_course_algorithm\\laba_2D\\laba_2D.csproj",
       "projectName": "laba_2D",
-      "projectPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_algorithm\\laba_2D\\laba_2D.csproj",
-      "packagesPath": "C:\\Users\\Игорь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_algorithm\\laba_2D\\obj\\",
+      "projectPath": "C:\\Users\\GT Turbo S\\OneDrive\\Рабочий стол\\GitHub\\MPSU_3_course_algorithm\\laba_2D\\laba_2D.csproj",
+      "packagesPath": "C:\\Users\\GT Turbo S\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\GT Turbo S\\OneDrive\\Рабочий стол\\GitHub\\MPSU_3_course_algorithm\\laba_2D\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Игорь\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\GT Turbo S\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
