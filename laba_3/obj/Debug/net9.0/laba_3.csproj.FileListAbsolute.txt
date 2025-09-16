@@ -1,0 +1,15 @@
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\bin\Debug\net9.0\laba_3.exe
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\bin\Debug\net9.0\laba_3.deps.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\bin\Debug\net9.0\laba_3.runtimeconfig.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\bin\Debug\net9.0\laba_3.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\bin\Debug\net9.0\laba_3.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\obj\Debug\net9.0\laba_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\obj\Debug\net9.0\laba_3.AssemblyInfoInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\obj\Debug\net9.0\laba_3.AssemblyInfo.cs
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\obj\Debug\net9.0\laba_3.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\obj\Debug\net9.0\laba_3.sourcelink.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\obj\Debug\net9.0\laba_3.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\obj\Debug\net9.0\refint\laba_3.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\obj\Debug\net9.0\laba_3.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\obj\Debug\net9.0\laba_3.genruntimeconfig.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_3\obj\Debug\net9.0\ref\laba_3.dll
