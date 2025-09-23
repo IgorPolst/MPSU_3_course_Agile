@@ -2,7 +2,7 @@ namespace laba_3;
 
 class Smartphone : Device
 {
-    public string ScreenResolution;
+    public string ScreenResolution { get; init; }
 
     public Smartphone(string brand, float batteryCapacity, string screenResolution)
         : base(brand, batteryCapacity)

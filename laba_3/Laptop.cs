@@ -3,8 +3,8 @@ namespace laba_3;
 
 class Laptop : Device
 {
-    public double ProcessorPerformance;
-    
+    public double ProcessorPerformance { get; init; }
+
     public Laptop(string brand, float batteryCapacity, double processorPerformance)
         : base(brand, batteryCapacity)
     {
