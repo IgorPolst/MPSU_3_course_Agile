@@ -1,0 +1,15 @@
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\bin\Debug\net9.0\laba_5D.exe
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\bin\Debug\net9.0\laba_5D.deps.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\bin\Debug\net9.0\laba_5D.runtimeconfig.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\bin\Debug\net9.0\laba_5D.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\bin\Debug\net9.0\laba_5D.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\obj\Debug\net9.0\laba_5D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\obj\Debug\net9.0\laba_5D.AssemblyInfoInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\obj\Debug\net9.0\laba_5D.AssemblyInfo.cs
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\obj\Debug\net9.0\laba_5D.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\obj\Debug\net9.0\laba_5D.sourcelink.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\obj\Debug\net9.0\laba_5D.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\obj\Debug\net9.0\refint\laba_5D.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\obj\Debug\net9.0\laba_5D.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\obj\Debug\net9.0\laba_5D.genruntimeconfig.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_algorithm\laba_5D\obj\Debug\net9.0\ref\laba_5D.dll

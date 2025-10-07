@@ -2,10 +2,10 @@ namespace laba_5_v2;
 
 public class Knight: ICharacter, IWarrior
 {
-    private string name { get; init; } = string.Empty;
-    private int health {get; set; }
-    private int strenght {get; set; }
-    private int armor {get; set; }
+    private string name = string.Empty;
+    private int health;
+    private int strenght;
+    private int armor;
 
     public string Name
     {
@@ -25,7 +25,7 @@ public class Knight: ICharacter, IWarrior
         set => armor = Math.Max(0, value);
     }
 
-    public int Strenght
+    public int Strength
     {
         get => strenght;
         set => strenght = Math.Max(0, value);
@@ -35,7 +35,7 @@ public class Knight: ICharacter, IWarrior
     {
         Name = name;
         Health = health;
-        Strenght = strenght;
+        Strength = strenght;
         Armor = armor;
     }
     void TakeDamage(int amount)
@@ -50,6 +50,6 @@ public class Knight: ICharacter, IWarrior
     }
     public void Attack(ICharacter target)
     {
-        target.TakeDamage(Strenght);
+        target.TakeDamage(Strength);
     }
 }

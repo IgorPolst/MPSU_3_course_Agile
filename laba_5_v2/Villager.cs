@@ -2,8 +2,8 @@ namespace laba_5_v2;
 
 public class Villager: ICharacter
 {
-    private string name { get; init; } = string.Empty;
-    private int health {get; set; }
+    private string name = string.Empty;
+    private int health;
 
     public string Name
     {

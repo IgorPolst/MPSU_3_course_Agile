@@ -2,7 +2,7 @@ namespace laba_5_v2;
 
 public interface ICharacter
 {
-    string Name { get; init; }
+    string Name { get; }
     int Health { get; set; }
     void TakeDamage(int amount)
     {
