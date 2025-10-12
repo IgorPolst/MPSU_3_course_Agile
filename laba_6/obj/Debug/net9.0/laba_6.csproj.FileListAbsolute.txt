@@ -1,0 +1,15 @@
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\obj\Debug\net9.0\laba_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\obj\Debug\net9.0\laba_6.AssemblyInfoInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\obj\Debug\net9.0\laba_6.AssemblyInfo.cs
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\obj\Debug\net9.0\laba_6.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\obj\Debug\net9.0\laba_6.sourcelink.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\bin\Debug\net9.0\laba_6.exe
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\bin\Debug\net9.0\laba_6.deps.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\bin\Debug\net9.0\laba_6.runtimeconfig.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\bin\Debug\net9.0\laba_6.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\bin\Debug\net9.0\laba_6.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\obj\Debug\net9.0\laba_6.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\obj\Debug\net9.0\refint\laba_6.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\obj\Debug\net9.0\laba_6.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\obj\Debug\net9.0\laba_6.genruntimeconfig.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_6\obj\Debug\net9.0\ref\laba_6.dll

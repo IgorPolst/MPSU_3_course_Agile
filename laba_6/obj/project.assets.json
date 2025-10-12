@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_5_v2\\laba_5_v2.csproj",
-      "projectName": "laba_5_v2",
-      "projectPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_5_v2\\laba_5_v2.csproj",
+      "projectUniqueName": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_6\\laba_6.csproj",
+      "projectName": "laba_6",
+      "projectPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_6\\laba_6.csproj",
       "packagesPath": "C:\\Users\\Игорь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_5_v2\\obj\\",
+      "outputPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Игорь\\AppData\\Roaming\\NuGet\\NuGet.Config"

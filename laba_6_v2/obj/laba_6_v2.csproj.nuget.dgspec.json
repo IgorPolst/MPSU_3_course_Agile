@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_5_v2\\laba_5_v2.csproj": {}
+    "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_6_v2\\laba_6_v2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_5_v2\\laba_5_v2.csproj": {
+    "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_6_v2\\laba_6_v2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_5_v2\\laba_5_v2.csproj",
-        "projectName": "laba_5_v2",
-        "projectPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_5_v2\\laba_5_v2.csproj",
+        "projectUniqueName": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_6_v2\\laba_6_v2.csproj",
+        "projectName": "laba_6_v2",
+        "projectPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_6_v2\\laba_6_v2.csproj",
         "packagesPath": "C:\\Users\\Игорь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_5_v2\\obj\\",
+        "outputPath": "C:\\Users\\Игорь\\Documents\\GitHub\\MPSU_3_course_Agile\\laba_6_v2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Игорь\\AppData\\Roaming\\NuGet\\NuGet.Config"
