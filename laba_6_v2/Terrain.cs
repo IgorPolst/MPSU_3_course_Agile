@@ -1,5 +1,6 @@
 namespace laba_6_v2;
 
+using static Messages.GameErrorMessages;
 public abstract class Terrain
 {
     private int baseCost;
@@ -14,8 +15,8 @@ public abstract class Terrain
 
     public string Name{
         get => name;
-        set => name = value ?? throw new ArgumentException(
-            "Имя не может быть пустым"); 
+        set => name = value ??
+            throw new ArgumentException(InvalidName); 
     }
 
     public virtual int GetCost(MovmentContext context)

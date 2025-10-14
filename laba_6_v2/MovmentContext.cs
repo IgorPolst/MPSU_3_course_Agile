@@ -1,6 +1,7 @@
 
 namespace laba_6_v2;
 
+using static Messages.ContextMessages;
 public class MovmentContext
 {
     private bool hasForestWalker { get; set; }
@@ -48,22 +49,16 @@ public class MovmentContext
     }
     private void NotifyForestChange(bool selector)
     {
-        Console.WriteLine(selector
-            ? "Теперь вы лучше ориентируетесь в лесу"
-            : "Вы забыли как ориентироваться в лесу");
+        Console.WriteLine(selector ? ForestWalkerGained: ForestWalkerLost);
     }
     private void ToggleRain(bool selector)
     {
-        Console.WriteLine(selector
-            ? "Начался дождь"
-            : "Тучи на небе разошлись");
+        Console.WriteLine(selector ? RainStarted : RainStopped);
     }
     private void NotifyMountainChange(bool selector)
     {
-        Console.WriteLine(selector
-            ? "Теперь вы лучше лазаете по горам"
-            : "Вы забыли как лазать по горам");
-    }   
+        Console.WriteLine(selector ? MountainBreedGained : MountainBreedLost);
+    }
     public void MovmentContextDescription()
     {
         string conditions = string.Empty;
