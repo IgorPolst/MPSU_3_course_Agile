@@ -4,9 +4,9 @@ namespace laba_6_v2;
 using static Messages.ContextMessages;
 public class MovmentContext
 {
-    private bool hasForestWalker { get; set; }
-    private bool isRaining { get; set; }
-    private bool isMountainBreed { get; set; }
+    private bool hasForestWalker;
+    private bool isRaining;
+    private bool isMountainBreed;
 
     public bool HasForestWalker
     {
