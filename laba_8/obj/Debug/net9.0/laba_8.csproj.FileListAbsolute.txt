@@ -1,0 +1,15 @@
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\bin\Debug\net9.0\laba_8.exe
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\bin\Debug\net9.0\laba_8.deps.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\bin\Debug\net9.0\laba_8.runtimeconfig.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\bin\Debug\net9.0\laba_8.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\bin\Debug\net9.0\laba_8.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\obj\Debug\net9.0\laba_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\obj\Debug\net9.0\laba_8.AssemblyInfoInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\obj\Debug\net9.0\laba_8.AssemblyInfo.cs
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\obj\Debug\net9.0\laba_8.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\obj\Debug\net9.0\laba_8.sourcelink.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\obj\Debug\net9.0\laba_8.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\obj\Debug\net9.0\refint\laba_8.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\obj\Debug\net9.0\laba_8.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\obj\Debug\net9.0\laba_8.genruntimeconfig.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\laba_8\obj\Debug\net9.0\ref\laba_8.dll

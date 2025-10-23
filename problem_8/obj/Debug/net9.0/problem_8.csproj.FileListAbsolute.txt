@@ -1,0 +1,15 @@
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\bin\Debug\net9.0\problem_8.exe
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\bin\Debug\net9.0\problem_8.deps.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\bin\Debug\net9.0\problem_8.runtimeconfig.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\bin\Debug\net9.0\problem_8.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\bin\Debug\net9.0\problem_8.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\obj\Debug\net9.0\problem_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\obj\Debug\net9.0\problem_8.AssemblyInfoInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\obj\Debug\net9.0\problem_8.AssemblyInfo.cs
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\obj\Debug\net9.0\problem_8.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\obj\Debug\net9.0\problem_8.sourcelink.json
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\obj\Debug\net9.0\problem_8.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\obj\Debug\net9.0\refint\problem_8.dll
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\obj\Debug\net9.0\problem_8.pdb
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\obj\Debug\net9.0\problem_8.genruntimeconfig.cache
+C:\Users\Игорь\Documents\GitHub\MPSU_3_course_Agile\problem_8\obj\Debug\net9.0\ref\problem_8.dll

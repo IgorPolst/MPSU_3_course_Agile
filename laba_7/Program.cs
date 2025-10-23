@@ -1,7 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.Xml.Schema;
-
-namespace laba_7;
+﻿namespace laba_7;
 
 public class Program
 {
